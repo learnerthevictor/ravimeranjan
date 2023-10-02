@@ -1,7 +1,7 @@
 {
   "name": "ravi-ranjan-portfolio",
   "version": "0.1.0",
-  "homepage": "https://ravimeranjan.github.io",
+  "homepage": "https://learnerthevictor.github.com",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
