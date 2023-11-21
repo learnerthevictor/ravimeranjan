@@ -1,4 +1,4 @@
- 
+
 export const Bio = {
   name: "Ravi Ranjan",
   roles: [
@@ -14,6 +14,9 @@ export const Bio = {
   github: "https://github.com/learnerthevictor",
   resume:
     "https://drive.google.com/file/d/1mFsa88u9cQAsJs8xlkb5n86IFf3ZwHK1/view?usp=sharing",
+  coverletter:
+    "https://drive.google.com/file/d/1zIzw1ulqfDIfAiEyTAqPEYkjNfQKJKbR/view?usp=sharing",
+
   linkedin: "https://www.linkedin.com/in/ravimeranjan/",
   twitter: "https://twitter.com/ravimeranjan",
   insta: "https://www.instagram.com/official_dhiraj/",
@@ -148,7 +151,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-     role: "React Developer Intern",
+    role: "React Developer Intern",
     company: "iMeet Technology Pvt. Ltd.",
     date: "July 2023 - September 2023",
     desc: "Working on Website & also Blockchain Platforms, Fetching Balance",
@@ -161,12 +164,12 @@ export const experiences = [
       "Next Js",
       "Firebase",
     ],
-    
+
   },
-  
+
   {
     id: 1,
-      role: "Open Source Contributor ",
+    role: "Open Source Contributor ",
     company: "GirlScript Summer of Code",
     date: "May 2023 - June 2023",
     desc: "Contributing to different open-source projects and learn from industry experts",
@@ -184,7 +187,7 @@ export const education = [
   },
   {
     id: 1,
-      College: "R.D.S. College, Muzaffarpur",
+    College: "R.D.S. College, Muzaffarpur",
     date: "Oct 2017 - Sep 2020",
     grade: "8.1 CGPA",
     desc: "I am Completed BCA at R.D.S. College, Muzaffarpur. with CGPA of 8.1%. I have taken courses in Java , Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
@@ -192,7 +195,7 @@ export const education = [
   },
   {
     id: 2,
-     school: "N.N.College, Singhara",
+    school: "N.N.College, Singhara",
     date: "Apr 2014 - Apr 2017",
     grade: "6.4 CGPA",
     desc: "I completed my class 12 high school education at N.N.College, Singhara, where I studied Science with Mathematics.",
@@ -215,8 +218,9 @@ export const projects = [
     date: "Oct 2022 - Present",
     description:
       "The Hungama Music clone is a dynamic music streaming platform designed to deliver an immersive audio experience. It boasts an extensive library comprising millions of songs across various genres, catering to diverse musical tastes. Users can create personalized playlists, explore curated playlists, and discover new releases. The platform offers a user-friendly interface with intuitive search and navigation features, ensuring seamless browsing. Additionally, it incorporates a robust recommendation system, suggesting tracks based on individual preferences. Social integration allows users to share their favorite music with friends and follow artists. The clone provides high-quality audio streaming, offline downloads, and exclusive content, making it a comprehensive music companion..",
-    // image:
-       tags: [
+    image:
+    "https://github.com/learnerthevictor/mypf/assets/132664774/35ca2e98-52b6-422b-83dc-4573fe5e0cbf",
+    tags: [
       "HTML",
       "CSS",
       "JavaScript",
@@ -226,6 +230,8 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
+    github: "https://github.com/learnerthevictor/Hungama-Clone.git",
+    webapp: "https://hungama-clone.netlify.app/",
   },
   {
     id: 1,
@@ -233,19 +239,24 @@ export const projects = [
     date: "May 2023",
     description:
       "The Google Extension Fun Jokes is a lighthearted browser add-on designed to inject humor and entertainment into your browsing experience. Once installed from the Chrome Web Store, this extension periodically displays amusing jokes, puns, or witty one-liners in a pop-up window or as a notification within your browser. These jokes are intended to bring smiles and laughter to your day while you navigate the web. They range from clever wordplay to funny anecdotes, providing a delightful break from routine online activities. This extension is perfect for those looking to add a touch of humor to their browsing sessions, creating a more enjoyable and uplifting internet experience.",
-    //image:
-     tags: ["HTML", "CSS", "JavaScript","Bootstrap", "Jokes API"],
+    image:"https://github.com/learnerthevictor/mypf/assets/132664774/4fe4c20b-7902-4adf-8412-8d4fbb99e3df",
+    tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "Jokes API"],
     category: "web app",
+    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    webapp: "https://thefunjokes.netlify.app",
   },
   {
     id: 2,
     title: "Shopkat",
-    date: "August 2021",
+    date: "August 2023",
     description:
       "Shopkart is a dynamic e-commerce platform revolutionizing online shopping. With a user-friendly interface and seamless navigation, it offers a vast array of products across categories like electronics, fashion, beauty, and more. The website prioritizes user experience, ensuring easy search, secure transactions, and swift checkout. Advanced filters and personalized recommendations enhance product discovery. Shopkart also provides detailed product descriptions and reviews for informed choices. With secure payment gateways and reliable delivery services, it ensures a trusted and convenient shopping experience. Engaging promotions and responsive customer support further elevate the shopping journey, making Shopkart a go-to destination for all online retail needs.",
-    //image:
-    tags: ["React Js","Redux", "Firebase", "Firestore", "Node JS"],
+    image:
+    "https://github.com/learnerthevictor/mypf/assets/132664774/1d159bb9-ccb7-4894-9a3e-434613042fdb",
+    tags: ["React Js", "Redux", "Firebase", "Firestore", "Node JS"],
     category: "web app",
+    github: "https://github.com/learnerthevictor/shopkart",
+    webapp: "https://hungama-clone.netlify.app/",
   },
 ];
 
